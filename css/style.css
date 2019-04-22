@@ -1,0 +1,10 @@
+html,body {
+    padding: 0px;
+    margin: 0px;
+}
+#app img {
+    width: 100%;
+}
+#app video {
+    width: 100%;
+}
